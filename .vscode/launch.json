@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug visualization.py",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.visualization",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
